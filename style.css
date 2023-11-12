@@ -1,0 +1,13 @@
+body
+{
+
+}
+
+button
+{
+    background-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: blue;
+    height: 35px;
+}
